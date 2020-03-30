@@ -1,5 +1,4 @@
 # tint2-executors
-Collection of Tint2 executors
 
 Simple executors for the Tint2 panel, written in Bash. "volume" and "network" are meant to replace the systray. The icons displayed are from Adwaita (from the Gnome Project) and the Papirus icon themes. They are provided in the icons directory for ease of use.
 
