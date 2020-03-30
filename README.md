@@ -1,7 +1,7 @@
 # tint2-executors
 Collection of Tint2 executors
 
-Simple executors for the Tint2 panel. "volume" and "network" are meant to replace the systray. The icons displayed are from Adwaita (from the Gnome Project) and the Papirus icon themes. They are provided in the icons directory for ease of use.
+Simple executors for the Tint2 panel, written in Bash. "volume" and "network" are meant to replace the systray. The icons displayed are from Adwaita (from the Gnome Project) and the Papirus icon themes. They are provided in the icons directory for ease of use.
 
 1. `cpu`: Simply monitors the cpu load. Nothing fancy here.  (sample executor: [wiki](https://github.com/I-LeCorbeau/tint2-executors/wiki/cpu))
 
