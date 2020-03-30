@@ -1,0 +1,7 @@
+#!/bin/bash
+
+  mem=`free | awk '/Mem/ {printf "%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
+  echo ~/.config/tint2/executors/icons/indicator-sensors-memory.svg
+  echo "$mem"
+
+
