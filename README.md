@@ -18,7 +18,11 @@ Simple executors (written in bash) for the Tint2 panel. "volume" and "network" a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/I-LeCorbeau/tint2-executors/blob/master/.previews/volume.png?raw=true)&nbsp;&nbsp;![](https://github.com/I-LeCorbeau/tint2-executors/blob/master/.previews/volume_muted.png?raw=true)
 
-Full panel preview
+5. `fsmon` : Displays how much space is used on the Root, Home and Swap partitions. (depends on Font Awesome 5 for the unicode characters to be displayed) (sample executor: [wiki](https://github.com/I-LeCorbeau/tint2-executors/wiki/fsmon))
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github.com/I-LeCorbeau/tint2-executors/blob/master/.previews/fsmon.png?raw=true) 
+
+Full panel preview (with mem, cpu, network and volume)
 
 ![](https://github.com/I-LeCorbeau/tint2-executors/blob/master/.previews/theme.png?raw=true)
 
