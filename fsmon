@@ -1,0 +1,7 @@
+#!/bin/sh
+
+ROOT=$(df -h | awk '/sda2/ { print $3 }')
+HOME=$(df -h | awk '/sda3/ { print $3 }')
+SWAP=$(cat /proc/swaps | awk '/sda1/ { print $4 }')
+
+echo "   $ROOT    $HOME    $SWAP"
